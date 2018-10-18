@@ -48,6 +48,11 @@ pwsh ./scriptfile.ps1 -msg "Hello friend"
 Run
 `create-storage.ps1`
 
+Example
+```powershell
+./create-storage.ps1 -resourcegroup MyResourceGroup -name newstorageaccount -location canadacentral -sku Standard_LRS -kind StorageV2
+```
+
 ### Create Resource Group
 
 Run
