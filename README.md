@@ -48,6 +48,11 @@ pwsh ./scriptfile.ps1 -msg "Hello friend"
 Run
 `create-storage.ps1`
 
+### Create Resource Group
+
+Run
+`create-resourcegroup.ps1`
+
 ## Commands
 ### Show Resource Groups
 `Get-AzureRMResourceGroup`
